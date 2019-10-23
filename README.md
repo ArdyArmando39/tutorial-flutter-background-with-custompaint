@@ -1,2 +1,3 @@
-# tutorial-flutter-background-with-custompaint
-Tutorial Gradient Background with Custom Paint in Flutter
+# Gradient Background with Custom Paint
+
+Selengkapnya ada di medium.com
